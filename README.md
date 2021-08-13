@@ -5,7 +5,7 @@ FaceMeet is a flutter application which works similar to zoom meetings. For buil
 ## Screenshots
 
 #Introduction
-![Introduction](https://user-images.githubusercontent.com/65757410/129352157-e11fd5cb-cdc0-4510-a0ab-1db4f3e449de.jpeg)
+![Introduction](https://user-images.githubusercontent.com/65757410/129352755-8588f26b-942b-43b1-8c34-7377a7e8881c.jpeg)
 
 #Start
 ![Start](https://user-images.githubusercontent.com/65757410/129352209-d716c537-cb23-4a16-ba65-2a93e1042ee9.jpeg)
