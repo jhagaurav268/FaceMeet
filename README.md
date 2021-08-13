@@ -1,16 +1,7 @@
-# zoom_clone
+# Face Meet
 
-A new Flutter application.
+FaceMeet is a flutter application which works similar to zoom meetings. For building this application i have used Jitsi Meet package. Backend of the application is connected to Firebase. All the handling during meetings is handled by Jitsi Meet Package itself.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
